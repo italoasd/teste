@@ -1,6 +1,6 @@
 function Teste(){
     return (
-        <div>teste 1</div>
+        <div>teste 1 nova mudança</div>
     )
 }
 
